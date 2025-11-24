@@ -6,7 +6,10 @@ EDBBのテーマを追加する拡張機能です
 30種類以上のテーマを追加します
 
 ## プレビュー
-ここでは**一部のみ**紹介します
+
+<img width="1259" height="936" alt="image" src="https://github.com/user-attachments/assets/2fd2ee07-5ea6-4bb2-b5b7-c70277a425d4" />
+
+
 
 Sakura
 <img width="1919" height="1045" alt="image" src="https://github.com/user-attachments/assets/fca896ce-ee17-444d-967d-f650494defa1" />
